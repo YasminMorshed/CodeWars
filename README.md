@@ -1,5 +1,7 @@
+# CodeWars
+###### Some problems and solutions 😊
 
-# CodeWars Problems and Solutions
 
-Some problems on CodeWars with their solutions that I attempted for practice.
+### Problem 1
 
+Write a function that takes an integer as input, and returns the number of bits that are equal to one in the binary representation of that number. You can guarantee that input is non-negative.
